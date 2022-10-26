@@ -1,0 +1,4 @@
+:filelist
+banana.txt
+brother.txt
+duck.txt
