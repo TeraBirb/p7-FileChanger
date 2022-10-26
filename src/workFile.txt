@@ -1,0 +1,4 @@
+:filelist
+/Users/user/IdeaProjects/Project7FileChanger/src/banana.txt
+/Users/user/IdeaProjects/Project7FileChanger/src/brother.txt
+/Users/user/IdeaProjects/Project7FileChanger/src/banana.txt
